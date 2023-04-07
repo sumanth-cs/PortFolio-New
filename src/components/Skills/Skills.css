@@ -1,0 +1,63 @@
+.skills{
+    display: flex;
+    align-items: center;
+    height: 70vh;
+    margin-bottom: 4rem;
+}
+
+.skills_left{
+    display: flex;
+    flex-direction: column;
+}
+
+.skills_left>:not(:nth-child(1)){
+    margin-left: 1.2rem;
+}
+
+.heading>span:nth-child(1){
+    color: var(--black);
+    font-weight: bold;
+    font-size: 3rem;
+
+}
+
+.heading>span:nth-child(2){
+    font-weight: bold;
+    color: var(--darkGreen);
+    font-size: 3rem;
+}
+
+.s_blur1{
+    top: 13rem;
+  left: -18rem;
+}
+
+.skills_right{
+    position: relative;
+}
+
+.skills_right>*{
+    position: absolute;
+}
+
+.s_blur2{
+    top: 10rem;
+    left: 38rem;
+}
+
+@media screen and (max-width: 480px) {
+    .skills{
+        margin-top: 10rem;
+        transform: scale(0.9);
+        display: flex;
+        flex-direction: column;
+        height: 70vh;
+        position: relative;
+    }
+    .skills_right{
+        transform: scale(0.5);
+        position: absolute;
+        left: 0;
+        top: 46rem;
+    }
+}
