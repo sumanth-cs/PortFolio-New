@@ -83,6 +83,7 @@
     transform: scale(0.7);
     left: 10%;
     top: -8%;
+    border-radius: 100px;
 }
 
 .p_right>:nth-child(4){
