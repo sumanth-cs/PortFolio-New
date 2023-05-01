@@ -16,6 +16,7 @@ export default function Projects() {
       <span>
         Recent <span>Projects</span>
       </span>
+      <h4>Tip : click to visit site</h4>
       <div className="blur s_blur1" style={{ background: "#ABF1FF94" }}></div>
 
       <Swiper

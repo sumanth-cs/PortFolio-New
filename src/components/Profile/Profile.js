@@ -35,8 +35,12 @@ export default function Profile() {
                 </Link>
 
                 <div className="p_icons">
+                    <a href={`https://github.com/sumanth-cs`} target='_blank' rel="noreferrer">
                     <img src={github} alt="" />
+                    </a>
+                    <a href={`https://www.linkedin.com/in/sumanth-cs/`} target='_blank' rel="noreferrer">
                     <img src={linkdin} alt="" />
+                    </a>
                 </div>
             </div>
             <div className="p_right">

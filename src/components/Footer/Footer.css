@@ -20,7 +20,8 @@
   }
   .f_icons {
     display: flex;
-    gap: 2rem;
+    gap: 1rem;
+    margin-bottom: 2rem;
   }
   
   @media screen and (max-width: 480px){

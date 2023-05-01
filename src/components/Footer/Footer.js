@@ -11,10 +11,11 @@ export default function Footer() {
       <img src={Wave} alt="" style={{ width: "100%" }} />
       <div className="f_content">
         <span>sumanthshetty698@gmail.com</span>
-        <div className="f-icons">
-          <Insta color="black" size={"3rem"} />
-          <Facebook color="black" size={"3rem"} />
-          <Gitub color="black" size={"3rem"} />
+
+        <div className="f_icons">
+          <Insta color="black" size={"2.5rem"} />
+          <Facebook color="black" size={"2.5rem" } />
+          <Gitub color="black" size={"2.5rem"} />
         </div>
       </div>
     </div>
