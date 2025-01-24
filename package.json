@@ -2,7 +2,7 @@
   "name": "react_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sumanth-cs.github.io/PortFolio-New.git",
+  "homepage": "https://sumanth-cs.github.io/PortFolio-New",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@iconscout/react-unicons": "^2.0.2",
