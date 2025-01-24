@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/PortFolio-New.git/static/css/main.31ab9c26.css",
+    "main.js": "/PortFolio-New.git/static/js/main.cc444cfd.js",
+    "static/media/movieCityImg2.png": "/PortFolio-New.git/static/media/movieCityImg2.7f3e8535c18aba885065.png",
+    "static/media/netflixImg2.png": "/PortFolio-New.git/static/media/netflixImg2.07bae1b139cc23f9ae8d.png",
+    "static/media/react.png": "/PortFolio-New.git/static/media/react.becbab0ab5d2271d2831.png",
+    "static/media/educationImg.png": "/PortFolio-New.git/static/media/educationImg.819a2bc713110af12efd.png",
+    "static/media/dashboardImg.jpg": "/PortFolio-New.git/static/media/dashboardImg.ccb2fc0c08ee11469ad9.jpg",
+    "static/media/codeEditor.png": "/PortFolio-New.git/static/media/codeEditor.2fd08da480194043b0cc.png",
+    "static/media/boy.png": "/PortFolio-New.git/static/media/boy.dd149fe8967223c588be.png",
+    "static/media/hotelBookingImg.jpg": "/PortFolio-New.git/static/media/hotelBookingImg.3a3f38be81c19feae796.jpg",
+    "static/media/aiImageImg.jpg": "/PortFolio-New.git/static/media/aiImageImg.43d124ce0952d5097615.jpg",
+    "static/media/git.png": "/PortFolio-New.git/static/media/git.faccfae3c97596fcb27e.png",
+    "static/media/txtEditorImg2.png": "/PortFolio-New.git/static/media/txtEditorImg2.2ce889201149912cd9bb.png",
+    "static/media/SumanthCS_Resume_WebDevIntern.pdf": "/PortFolio-New.git/static/media/SumanthCS_Resume_WebDevIntern.c912a8c3b29fb1d8fdbb.pdf",
+    "static/media/glassesimoji.png": "/PortFolio-New.git/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/js.png": "/PortFolio-New.git/static/media/js.747787dca203fae2cd83.png",
+    "static/media/calculator.png": "/PortFolio-New.git/static/media/calculator.71a73564f02df7d933ca.png",
+    "static/media/mongodb.png": "/PortFolio-New.git/static/media/mongodb.62f6b1e4375f36d6eb26.png",
+    "static/media/node.png": "/PortFolio-New.git/static/media/node.31c0e97d5776c294d370.png",
+    "static/media/css.png": "/PortFolio-New.git/static/media/css.6402b604475346c0ff73.png",
+    "static/media/thumbup.png": "/PortFolio-New.git/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/mysql.png": "/PortFolio-New.git/static/media/mysql.1dc2631b700f5f1688c4.png",
+    "static/media/humble.png": "/PortFolio-New.git/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/codingImg.png": "/PortFolio-New.git/static/media/codingImg.4a1123dfb8052d410aa0.png",
+    "static/media/wave.png": "/PortFolio-New.git/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/PortFolio-New.git/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/PortFolio-New.git/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/instaImg.webp": "/PortFolio-New.git/static/media/instaImg.218881bc7fe4210a9d4e.webp",
+    "index.html": "/PortFolio-New.git/index.html",
+    "main.31ab9c26.css.map": "/PortFolio-New.git/static/css/main.31ab9c26.css.map",
+    "main.cc444cfd.js.map": "/PortFolio-New.git/static/js/main.cc444cfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31ab9c26.css",
+    "static/js/main.cc444cfd.js"
+  ]
+}
