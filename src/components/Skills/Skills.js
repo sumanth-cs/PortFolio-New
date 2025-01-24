@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Skills.css"
-import resume from "../../img/sumanthcsresume.pdf"
+import resume from "../../img/SumanthCS_Resume_WebDevIntern.pdf"
 import Cards from '../Cards/Cards'
 import html from "../../img/html.png"
 import css from "../../img/css.png"

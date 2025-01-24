@@ -21,25 +21,29 @@ export default function Profile() {
                 <div className="p_name">
                     <span>Hi! I Am</span>
                     <span>Sumanth C S</span>
-                    <span>I'm an enthusiastic <strong>Full Stack Developer</strong> with a passion for learning and problem-solving.
+                    <span className='bio'>
+                        I'm an enthusiastic <strong>Full Stack Developer</strong> with a passion for learning and problem-solving.
                         <br />
-                        I'm dedicated to <strong>
-                            learning</strong>  and <strong> expanding my knowledge</strong> to become a valuable contributor to the industry.
+                        <span>BCA student</span> with a <strong>9.5 CGPA</strong>, skilled in
+                        <strong> MERN stack technologies.</strong><br />
+                        A <strong>quick learner</strong> with <strong>strong problem-solving abilities</strong> and a focus on
+                        <strong> clean, professional, efficient code</strong>.
                     </span>
+
                 </div>
 
                 <Link to="contact" smooth={true} spy={true}>
                     <button className="btn p_btn">
-                        Hire me
+                        Get in Touch
                     </button>
                 </Link>
 
                 <div className="p_icons">
                     <a href={`https://github.com/sumanth-cs`} target='_blank' rel="noreferrer">
-                    <img src={github} alt="" />
+                        <img src={github} alt="" />
                     </a>
                     <a href={`https://www.linkedin.com/in/sumanth-cs/`} target='_blank' rel="noreferrer">
-                    <img src={linkdin} alt="" />
+                        <img src={linkdin} alt="" />
                     </a>
                 </div>
             </div>
@@ -59,16 +63,16 @@ export default function Profile() {
                     transition={transition}
                     style={{ top: "-4%", left: "68%" }}
                 >
-                    <FloatingDiv image={crown} txt1="Great" txt2="learning" />
+                    <FloatingDiv image={crown} txt1="Honest" />
                 </motion.div>
 
                 <motion.div
                     initial={{ left: "20rem", top: "23rem" }}
                     whileInView={{ left: "0rem" }}
                     transition={transition}
-                    style={{  top: "23rem", left: "20rem",width:"15rem" }}
+                    style={{ top: "23rem", left: "20rem", width: "15rem" }}
                 >
-                    <FloatingDiv image={thumbup} txt1="Web" txt2="Developer" />
+                    <FloatingDiv image={thumbup} txt1="Problem" txt2="Solver" />
                 </motion.div>
 
                 <div className='blur' style={{ background: "rgb(238 210 255)", zIndex: "-2" }}></div>

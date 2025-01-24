@@ -8,30 +8,30 @@ import { Pagination } from "swiper";
 import "swiper/css/pagination";
 
 import codingImg from "../../img/codingImg.png"
-import deliveryImg from "../../img/deliveryImg.png"
 import educationImg from "../../img/educationImg.png"
+import humbleImg from "../../img/humble.png"
 
 export default function AboutMe() {
 
     const informations = [
         {
-            img: codingImg,
-            title: "Relevel By Unacademy",
-            description: "Joined Web Development Course and started learning new things.",
-            year: "June-2022 to April-2023"
-        },
-        {
-            img: deliveryImg,
-            title: "Delivery Partner for ShadowFax and Zomato",
-            description: "started working in these companies full time.",
-            year: "June-2021 to June-2022"
-        },
-        {
             img: educationImg,
-            title: "Dropped out from my 2nd year BCA",
-            description: "Due to lack of Growth in carrer i decided to dropout",
-            year: "2020 - 2021"
-        }
+            title: "BCA Student with a 9.5 CGPA",
+            description: "Currently pursuing a Bachelor's in Computer Applications with a strong focus on web development, competitive programming, and maintaining academic excellence.",
+            year: "2023 - Present"
+        },
+        {
+            img: codingImg,
+            title: "Full-Stack Web Developer",
+            description: "Gained hands-on experience in the MERN stack while building real-world projects, including a hotel booking app and an Data visualiser.",
+            year: "2022 - Present"
+        },
+        {
+            img: humbleImg,
+            title: "Dedicated Learner and Hard Worker",
+            description: "Selected as Class Monitor and Student Representative for exceptional leadership skills. Recognized for effective teamwork and commitment to academic excellence in college.",
+            year: ""
+        },
     ]
 
     return (

@@ -12,7 +12,7 @@
     justify-content: center;
     flex-direction: column;
     width: 100%;
-    margin-top: 16rem;
+    margin-top: 10rem;
     gap: 4rem;
     color: black;
     font-size: 2rem;
@@ -28,5 +28,7 @@
     .f_content{
       width: 100%;
       transform: scale(.5);
+      margin-top: 6rem;
+      gap: 1.5rem;
     }
   }
